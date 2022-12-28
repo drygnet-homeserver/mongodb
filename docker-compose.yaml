@@ -16,5 +16,5 @@ volumes:
   mongodb_data_container:
 
 networks:
-  home:
+  www_home:
     external: true
